@@ -4,4 +4,5 @@ Make change
 Make change    
 Learned about commit hash
 Added a branch: branch 1
+Added a branch: branch 2
 Branch 2 created, went back to main
