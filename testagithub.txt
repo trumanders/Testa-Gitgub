@@ -1,3 +1,4 @@
 Create new file yes
 Commit          yes
 Make change     yes
+Make change     yes
