@@ -1,4 +1,5 @@
-Create new file yes
-Commit          yes
-Make change     yes
-Make change     yes
+Create new file
+Commit
+Make change
+Make change    
+Learned about commit hash
